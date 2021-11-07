@@ -1,0 +1,23 @@
+ module.exports = ({
+     snipe_author: '',
+     snipe_date: '',
+     snipe_msg: '',
+     snipe_channel: '',
+     snipe_t: '',
+     AFK: 'off',
+     time: '',
+     prefix: ">",
+     cbChannel: '',
+     guessing: 'off',
+     guess_channel: '',
+     guess_min: '0',
+     guess_max: '0',
+     tb_guess: '0',
+     guess_check: 'false',
+     gchannel_check: 'false',
+     gmin_check: 'false',
+     gmax_check: 'false',
+     tbg_check: 'false',
+     pf: '0',
+     color: '#00C3AB'
+});
